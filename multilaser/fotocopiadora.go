@@ -1,9 +1,9 @@
 package fotocopiadora
 
 // import "./impressora"
-import "meuModulo.com/multilaser/impressora"
+import "github.com/megatron0000/golang-meuModulo/multilaser/impressora"
 // import "./scanner"
-import "meuModulo.com/multilaser/scanner"
+import "github.com/megatron0000/golang-meuModulo/multilaser/scanner"
 
 func ScanAndPrint() {
 	impressao.Imprimir()

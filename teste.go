@@ -1,8 +1,8 @@
 package main
 
-import "meuModulo.com/multilaser/impressora"
-import "meuModulo.com/multilaser/scanner"
-import "meuModulo.com/multilaser"
+import "github.com/megatron0000/golang-meuModulo/multilaser/impressora"
+import "github.com/megatron0000/golang-meuModulo/multilaser/scanner"
+import "github.com/megatron0000/golang-meuModulo/multilaser"
 
 
 func main() {
